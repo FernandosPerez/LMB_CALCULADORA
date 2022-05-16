@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LMB_CALCULADORA</string>
+    <string name="hello_world_2_0">Hello World! 2.0</string>
+    <string name="button">Button</string>
 </resources>
